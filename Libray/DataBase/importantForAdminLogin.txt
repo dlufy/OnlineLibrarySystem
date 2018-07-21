@@ -1,0 +1,3 @@
+ id | FullName   | AdminEmail                   | UserName | Password                         | updationDate
+1.  Anuj Kumar | phpgurukulofficial@gmail.com | admin    | f925916e2754e5e03f75dd58a5733251 | 2017-07-16 23:41:42 |
+2.    ajay       | ajayynitkkr@gmail.com        | luffy    | ajay@123                         | 2017-11-10 08:52:11
